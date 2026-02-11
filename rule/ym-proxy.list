@@ -1,0 +1,82 @@
+# 域名后缀匹配
+DOMAIN-SUFFIX,listary.com
+DOMAIN-SUFFIX,clubsim.com.hk
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,de5.net
+DOMAIN-SUFFIX,dnshe.com
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,tv.garden
+DOMAIN-SUFFIX,canyang.com
+DOMAIN-SUFFIX,zanyang.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,virtnet.bond
+DOMAIN-SUFFIX,login.uts.edu.au
+DOMAIN-SUFFIX,iiiiii.ggff.net
+DOMAIN-SUFFIX,sub.kkgg.us.kg
+DOMAIN-SUFFIX,tunnelbroker.net
+DOMAIN-SUFFIX,customer.l53.net
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,henghost.com
+DOMAIN-SUFFIX,api.iturrit.com
+DOMAIN-SUFFIX,mixplorer.com
+DOMAIN-SUFFIX,mousegesturesapi.com
+DOMAIN-SUFFIX,vercel-ip.html.zone
+DOMAIN-SUFFIX,weatheroffer.com
+DOMAIN-SUFFIX,care-eyes.com #careueyes激活
+DOMAIN-SUFFIX,check.proxyip.cmliussss.net #cm
+DOMAIN-SUFFIX,x-aniu.com #阿牛公益节点
+DOMAIN-SUFFIX,mikr.us #mikr
+DOMAIN-SUFFIX,frog02.mikr.us #mikr
+DOMAIN-SUFFIX,nic.eu.org #二级域名
+DOMAIN-SUFFIX,mail.xoxome.online #风车邮箱
+DOMAIN-SUFFIX,www.kadaza.com #导航
+DOMAIN-SUFFIX,www.emojiall.com #emoji
+DOMAIN-SUFFIX,napp.catchingnow.com
+DOMAIN-SUFFIX,care-eyes.com #h护眼
+DOMAIN-SUFFIX,conn-service-us-04.allawnos.com
+DOMAIN-SUFFIX,3.8.c.b.0.d.0.0.1.0.a.2.ip6.arpa
+DOMAIN-SUFFIX,d.a.7.0.4.2.0.0.0.7.4.0.1.0.0.2.ip6.arpa
+
+# 翻译
+DOMAIN-SUFFIX,translate.googleapis.com
+DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,translate.brave.com
+DOMAIN-SUFFIX,go-updater.brave.com
+DOMAIN-SUFFIX,componentupdater.brave.com
+DOMAIN-SUFFIX,p3.brave.com
+DOMAIN-SUFFIX,updates-cdn.bravesoftware.com #brave
+DOMAIN-SUFFIX,updates.bravesoftware.com #brave
+
+#谷歌大陆节点代理
+DOMAIN-SUFFIX,gstatic.com
+
+# NodeSeek
+DOMAIN-SUFFIX,nodeseek.com
+IP-CIDR,198.18.23.57/32,no-resolve
+IP-CIDR,113.29.226.135/32,no-resolve
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,adjust
+
+# 国外DNS
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,dns.umbrella.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,doh.dns.sb
+DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,hk-hkg.doh.sb
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,185.222.222.222/32,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
