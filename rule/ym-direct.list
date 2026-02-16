@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,time.windows.com
 IP-CIDR,2a14:67c1:a070:4::a6/32,no-resolve #netjett
+DOMAIN-SUFFIX,assrt.net #射手字幕
+DOMAIN-SUFFIX,potplayer.daum.net #播放器
 
 #vps列表
 IP-CIDR,2a01:4f9:6b:47e9::2145/32,no-resolve #mikr
