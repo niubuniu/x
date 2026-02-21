@@ -1,3 +1,7 @@
 #icmp9.com
 #DOMAIN-SUFFIX,icmp9.com
 #IP-CIDR,43.160.253.51/32,no-resolve
+# NodeSeek
+DOMAIN-SUFFIX,nodeseek.com
+IP-CIDR,198.18.23.57/32,no-resolve
+IP-CIDR,113.29.226.135/32,no-resolve
