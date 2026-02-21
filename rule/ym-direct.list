@@ -17,11 +17,6 @@ DOMAIN-SUFFIX,alice.sh
 #免费域名
 DOMAIN-SUFFIX,cloudns.net
 
-# NodeSeek
-DOMAIN-SUFFIX,nodeseek.com
-IP-CIDR,198.18.23.57/32,no-resolve
-IP-CIDR,113.29.226.135/32,no-resolve
-
 #同花顺
 IP-CIDR,159.138.41.254/32
 IP-CIDR,117.133.128.227/32
