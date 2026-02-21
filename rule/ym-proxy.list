@@ -54,11 +54,6 @@ DOMAIN-SUFFIX,updates.bravesoftware.com #brave
 #谷歌大陆节点代理
 DOMAIN-SUFFIX,gstatic.com
 
-# NodeSeek
-DOMAIN-SUFFIX,nodeseek.com
-IP-CIDR,198.18.23.57/32,no-resolve
-IP-CIDR,113.29.226.135/32,no-resolve
-
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,adjust
