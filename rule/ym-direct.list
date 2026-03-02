@@ -12,6 +12,7 @@ IP-CIDR,2a14:67c1:a070:4::a6/32,no-resolve #netjett
 DOMAIN-SUFFIX,189.cn,DIRECT
 DOMAIN-SUFFIX,ctwing.cn,DIRECT
 DOMAIN-KEYWORD,cloud.189,DIRECT
+DOMAIN-SUFFIX,21cn.com,DIRECT
 
 #vps列表
 IP-CIDR,2a01:4f9:6b:47e9::2145/32,no-resolve #mikr
