@@ -8,6 +8,11 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,time.windows.com
 IP-CIDR,2a14:67c1:a070:4::a6/32,no-resolve #netjett
 
+# 天翼云盘分流规则
+DOMAIN-SUFFIX,189.cn,DIRECT
+DOMAIN-SUFFIX,ctwing.cn,DIRECT
+DOMAIN-KEYWORD,cloud.189,DIRECT
+
 #vps列表
 IP-CIDR,2a01:4f9:6b:47e9::2145/32,no-resolve #mikr
 IP-CIDR,2a02:180:6:1::83d/32,no-resolve #euser
