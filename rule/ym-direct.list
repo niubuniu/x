@@ -1,12 +1,26 @@
 # 域名IP后缀匹配
-DOMAIN-SUFFIX,ntp.se
-DOMAIN-SUFFIX,tv.yiming.xyz
-DOMAIN-SUFFIX,ipfilter.yiming.xyz
+DOMAIN-SUFFIX,tv.yiming.xyz #我的域名
+DOMAIN-SUFFIX,ipfilter.yiming.xyz #我的域名
+DOMAIN-SUFFIX,docker.yiming.xyz #我的域名
+DOMAIN-SUFFIX,nikki.yiming.xyz #我的域名
+DOMAIN-SUFFIX,router.yiming.xyz #我的域名
+DOMAIN-SUFFIX,lucky.yiming.xyz #我的域名
+DOMAIN-SUFFIX,pc.yiming.xyz #我的域名
+DOMAIN-SUFFIX,share.yiming.xyz #我的域名
+DOMAIN-SUFFIX,substore.yiming.xyz #我的域名
+DOMAIN-SUFFIX,draw.yiming.xyz #我的域名
+DOMAIN-SUFFIX,aria-ui.yiming.xyz #我的域名
+DOMAIN-SUFFIX,openlist.yiming.xyz #我的域名
+DOMAIN-SUFFIX,wechat.yiming.xyz #我的域名
+DOMAIN-SUFFIX,rustdesk.yiming.xyz #我的域名
+DOMAIN-SUFFIX,qinglong.yiming.xyz #我的域名
+
+# 其他
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,time.windows.com
-IP-CIDR,2a14:67c1:a070:4::a6/32,no-resolve #netjett
+DOMAIN-SUFFIX,ntp.se
 
 # 天翼云盘分流规则
 DOMAIN-SUFFIX,189.cn,DIRECT
@@ -20,6 +34,7 @@ IP-CIDR,2a02:180:6:1::83d/32,no-resolve #euser
 IP-CIDR,2a14:67c0:302:ed::a/32,no-resolve #alice
 DOMAIN-SUFFIX,alice.sh
 DOMAIN-SUFFIX,euserv.com
+IP-CIDR,2a14:67c1:a070:4::a6/32,no-resolve #netjett
 
 #免费域名
 DOMAIN-SUFFIX,cloudns.net
