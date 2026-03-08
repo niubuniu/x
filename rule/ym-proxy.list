@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,www.kadaza.com #导航
 DOMAIN-SUFFIX,www.emojiall.com #emoji
 DOMAIN-SUFFIX,assrt.net #射手字幕
 DOMAIN-SUFFIX,potplayer.daum.net #播放器
+DOMAIN-SUFFIX,immortalwrt.kyarucloud.moe #软路由固件
 
 # 翻译
 DOMAIN-SUFFIX,translate.googleapis.com
