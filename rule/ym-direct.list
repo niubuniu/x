@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,ntp.se
-
+DOMAIN-SUFFIX,right.com.cn #恩山
 # 天翼云盘分流规则
 DOMAIN-SUFFIX,189.cn,DIRECT
 DOMAIN-SUFFIX,ctwing.cn,DIRECT
