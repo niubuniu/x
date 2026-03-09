@@ -1,14 +1,18 @@
+payload:
   # --- 我的域名 (自动包含子域名) ---
   - DOMAIN-SUFFIX,yiming.xyz
   - DOMAIN-SUFFIX,alice.sh
   - DOMAIN-SUFFIX,euserv.com
   - DOMAIN-SUFFIX,cloudns.net
+  - DOMAIN-SUFFIX,qing-yu.top
 
-  # --- IP 规则 (IPv4 & IPv6) ---
-  - IP-CIDR,2a01:4f9:6b:47e9::2145/32,no-resolve
-  - IP-CIDR,2a02:180:6:1::83d/32,no-resolve
-  - IP-CIDR,2a14:67c0:302:ed::a/32,no-resolve
-  - IP-CIDR,2a14:67c1:a070:4::a6/32,no-resolve
+  # --- VPS 列表 (修正 IPv6 掩码为单机 /128) ---
+  - IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve
+  - IP-CIDR6,2a02:180:6:1::83d/128,no-resolve
+  - IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve
+  - IP-CIDR6,2a14:67c1:a070:4::a6/128,no-resolve
+
+  # --- IP 规则 (IPv4) ---
   - IP-CIDR,159.138.41.254/32
   - IP-CIDR,117.133.128.227/32
   - IP-CIDR,5.5.5.5/32,no-resolve
@@ -25,7 +29,7 @@
   - DOMAIN-KEYWORD,cloud.189
   - DOMAIN-KEYWORD,baidu
 
-  # --- 常用国内域名 (去重并标准化) ---
+  # --- 常用国内域名 ---
   - DOMAIN-SUFFIX,189.cn
   - DOMAIN-SUFFIX,ctwing.cn
   - DOMAIN-SUFFIX,21cn.com
@@ -71,7 +75,7 @@
   - DOMAIN-SUFFIX,rewards.bing.com
   - DOMAIN-SUFFIX,api.onedrive.com
 
-  # --- 大厂域名集 (精简合并) ---
+  # --- 大厂域名集 ---
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alicdn.com
   - DOMAIN-SUFFIX,alipay.com
@@ -100,6 +104,11 @@
   # --- 加速与科研 ---
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,ghproxy.net
+  - DOMAIN-SUFFIX,ghfast.top
   - DOMAIN-SUFFIX,ncbi.nlm.nih.gov
   - DOMAIN-SUFFIX,crossref.org
+
+  # --- Stun (常用直连) ---
   - DOMAIN-SUFFIX,stun.syncthing.net
+  - DOMAIN-SUFFIX,stun.isp.net.au
+  - DOMAIN-SUFFIX,stun.nextcloud.com
