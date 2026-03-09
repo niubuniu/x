@@ -1,43 +1,42 @@
-payload:
-  - DOMAIN-SUFFIX,yiming.xyz
-  - DOMAIN-SUFFIX,alice.sh
-  - DOMAIN-SUFFIX,euserv.com
-  - DOMAIN-SUFFIX,cloudns.net
-  - DOMAIN-SUFFIX,qing-yu.top
-  - IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve
-  - IP-CIDR6,2a02:180:6:1::83d/128,no-resolve
-  - IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve
-  - IP-CIDR6,2a14:67c1:a070:4::a6/128,no-resolve
-  - IP-CIDR,159.138.41.254/32
-  - IP-CIDR,117.133.128.227/32
-  - IP-CIDR,5.5.5.5/32,no-resolve
-  - IP-CIDR,223.5.5.5/32,no-resolve
-  - IP-CIDR,114.114.114.114/32,no-resolve
-  - DOMAIN-KEYWORD,cloud.189
-  - DOMAIN-KEYWORD,baidu
-  - DOMAIN-SUFFIX,189.cn
-  - DOMAIN-SUFFIX,ctwing.cn
-  - DOMAIN-SUFFIX,lanzov.com
-  - DOMAIN-SUFFIX,hao123.com
-  - DOMAIN-SUFFIX,right.com.cn
-  - DOMAIN,api.nopecha.com
-  - DOMAIN,www2.deepl.com
-  - DOMAIN-SUFFIX,alibaba.com
-  - DOMAIN-SUFFIX,alicdn.com
-  - DOMAIN-SUFFIX,alipay.com
-  - DOMAIN-SUFFIX,aliyun.com
-  - DOMAIN-SUFFIX,taobao.com
-  - DOMAIN-SUFFIX,tmall.com
-  - DOMAIN-SUFFIX,baidu.com
-  - DOMAIN-SUFFIX,douyin.com
-  - DOMAIN-SUFFIX,toutiao.com
-  - DOMAIN-SUFFIX,huawei.com
-  - DOMAIN-SUFFIX,mi.com
-  - DOMAIN-SUFFIX,xiaomi.com
-  - DOMAIN-SUFFIX,163.com
-  - DOMAIN-SUFFIX,netease.com
-  - DOMAIN-SUFFIX,weibo.com
-  - DOMAIN-SUFFIX,tencent.com
-  - DOMAIN-SUFFIX,qq.com
-  - DOMAIN-SUFFIX,weixin.com
-  - DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,yiming.xyz
+DOMAIN-SUFFIX,alice.sh
+DOMAIN-SUFFIX,euserv.com
+DOMAIN-SUFFIX,cloudns.net
+DOMAIN-SUFFIX,qing-yu.top
+IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve
+IP-CIDR6,2a02:180:6:1::83d/128,no-resolve
+IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve
+IP-CIDR6,2a14:67c1:a070:4::a6/128,no-resolve
+IP-CIDR,159.138.41.254/32
+IP-CIDR,117.133.128.227/32
+IP-CIDR,5.5.5.5/32,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,114.114.114.114/32,no-resolve
+DOMAIN-KEYWORD,cloud.189
+DOMAIN-KEYWORD,baidu
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,ctwing.cn
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,right.com.cn
+DOMAIN,api.nopecha.com
+DOMAIN,www2.deepl.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,wechat.com
