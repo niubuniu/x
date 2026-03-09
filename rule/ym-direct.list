@@ -1,114 +1,92 @@
 payload:
-  # --- 我的域名 (自动包含子域名) ---
+  # ==========================================
+  # 1. 个人私有资产 (自用域名/VPS)
+  # ==========================================
   - DOMAIN-SUFFIX,yiming.xyz
   - DOMAIN-SUFFIX,alice.sh
   - DOMAIN-SUFFIX,euserv.com
   - DOMAIN-SUFFIX,cloudns.net
   - DOMAIN-SUFFIX,qing-yu.top
-
-  # --- VPS 列表 (修正 IPv6 掩码为单机 /128) ---
+  # VPS IPv6 节点直连 (修正为单机掩码)
   - IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve
   - IP-CIDR6,2a02:180:6:1::83d/128,no-resolve
   - IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve
   - IP-CIDR6,2a14:67c1:a070:4::a6/128,no-resolve
-
-  # --- IP 规则 (IPv4) ---
+  # VPS IPv4 节点直连
   - IP-CIDR,159.138.41.254/32
   - IP-CIDR,117.133.128.227/32
-  - IP-CIDR,5.5.5.5/32,no-resolve
-  - IP-CIDR,219.146.1.66/32,no-resolve
-  - IP-CIDR,219.147.1.66/32,no-resolve
-  - IP-CIDR,119.29.29.29/32,no-resolve
+
+  # ==========================================
+  # 2. 系统服务与公共设施 (DNS/NTP/STUN)
+  # ==========================================
+  # 公共 DNS
   - IP-CIDR,223.5.5.5/32,no-resolve
-  - IP-CIDR,223.6.6.6/32,no-resolve
-  - IP-CIDR,180.76.76.76/32,no-resolve
   - IP-CIDR,114.114.114.114/32,no-resolve
-  - IP-CIDR,114.114.115.115/32,no-resolve
-
-  # --- 关键字匹配 ---
-  - DOMAIN-KEYWORD,cloud.189
-  - DOMAIN-KEYWORD,baidu
-
-  # --- 常用国内域名 ---
-  - DOMAIN-SUFFIX,189.cn
-  - DOMAIN-SUFFIX,ctwing.cn
-  - DOMAIN-SUFFIX,21cn.com
-  - DOMAIN-SUFFIX,lanzov.com
-  - DOMAIN-SUFFIX,hao123.com
+  - DOMAIN-SUFFIX,dns.alidns.com
+  - DOMAIN-SUFFIX,doh.pub
+  # 时间同步
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,time.windows.com
   - DOMAIN-SUFFIX,ntp.se
-  - DOMAIN-SUFFIX,right.com.cn
-  - DOMAIN-SUFFIX,10jqka.com.cn
-  - DOMAIN-SUFFIX,hexin.cn
-  - DOMAIN-SUFFIX,id6.me
-  - DOMAIN-SUFFIX,123ths.com
-  - DOMAIN-SUFFIX,hxkba.com
-  - DOMAIN-SUFFIX,touzime.com
-  - DOMAIN-SUFFIX,thsi.cn
-  - DOMAIN-SUFFIX,migucloud.com
-  - DOMAIN-SUFFIX,miguvideo.com
-  - DOMAIN-SUFFIX,cmvideo.cn
-  - DOMAIN-SUFFIX,migu.cn
-  - DOMAIN-SUFFIX,migudm.cn
-  - DOMAIN-SUFFIX,cmread.com
-  - DOMAIN-SUFFIX,dns.alidns.com
-  - DOMAIN-SUFFIX,doh.pub
-  - DOMAIN-SUFFIX,360.com
-  - DOMAIN-SUFFIX,360kuai.com
-  - DOMAIN-SUFFIX,360safe.com
-  - DOMAIN-SUFFIX,dhrest.com
-  - DOMAIN-SUFFIX,qhres.com
-  - DOMAIN-SUFFIX,qhstatic.com
-  - DOMAIN-SUFFIX,qhupdate.com
-  - DOMAIN-SUFFIX,so.com
-  - DOMAIN,api.nopecha.com
-  - DOMAIN,www2.deepl.com
-  - DOMAIN-SUFFIX,api.ipify.org
-  - DOMAIN-SUFFIX,bam.nr-data.net
-  - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-SUFFIX,wns.windows.com
-  - DOMAIN-SUFFIX,msftconnecttest.com
-  - DOMAIN-SUFFIX,msftncsi.com
-  - DOMAIN-SUFFIX,ipv6.microsoft.com
-  - DOMAIN-SUFFIX,xboxlive.com
-  - DOMAIN-SUFFIX,rewards.bing.com
-  - DOMAIN-SUFFIX,api.onedrive.com
+  # P2P/穿透服务
+  - DOMAIN-SUFFIX,stun.syncthing.net
+  - DOMAIN-SUFFIX,stun.isp.net.au
 
-  # --- 大厂域名集 ---
+  # ==========================================
+  # 3. 核心业务分流 (运营商/下载/社交)
+  # ==========================================
+  # 运营商与云盘
+  - DOMAIN-SUFFIX,189.cn
+  - DOMAIN-SUFFIX,ctwing.cn
+  - DOMAIN-KEYWORD,cloud.189
+  - DOMAIN-SUFFIX,21cn.com
+  # 下载与工具
+  - DOMAIN-SUFFIX,lanzov.com
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,ghproxy.net
+  - DOMAIN-SUFFIX,ghfast.top
+  - DOMAIN,www2.deepl.com
+
+  # ==========================================
+  # 4. 国内互联网大厂 (白名单精简版)
+  # ==========================================
+  # 阿里系
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alicdn.com
   - DOMAIN-SUFFIX,alipay.com
   - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,tmall.com
-  - DOMAIN-SUFFIX,baidu.com
-  - DOMAIN-SUFFIX,bdimg.com
-  - DOMAIN-SUFFIX,douyin.com
-  - DOMAIN-SUFFIX,toutiao.com
-  - DOMAIN-SUFFIX,huawei.com
-  - DOMAIN-SUFFIX,huaweicloud.com
-  - DOMAIN-SUFFIX,iqiyi.com
-  - DOMAIN-SUFFIX,jd.com
-  - DOMAIN-SUFFIX,mi.com
-  - DOMAIN-SUFFIX,xiaomi.com
-  - DOMAIN-SUFFIX,163.com
-  - DOMAIN-SUFFIX,netease.com
-  - DOMAIN-SUFFIX,sina.com
-  - DOMAIN-SUFFIX,weibo.com
+  # 腾讯系
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,weixin.com
   - DOMAIN-SUFFIX,wechat.com
-  
-  # --- 加速与科研 ---
-  - DOMAIN-SUFFIX,gh-proxy.com
-  - DOMAIN-SUFFIX,ghproxy.net
-  - DOMAIN-SUFFIX,ghfast.top
+  # 百度/字节/华为/小米
+  - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,bdimg.com
+  - DOMAIN-KEYWORD,baidu
+  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,toutiao.com
+  - DOMAIN-SUFFIX,huawei.com
+  - DOMAIN-SUFFIX,huaweicloud.com
+  - DOMAIN-SUFFIX,mi.com
+  - DOMAIN-SUFFIX,xiaomi.com
+  # 网易/新浪/360
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,weibo.com
+  - DOMAIN-SUFFIX,360.com
+  - DOMAIN-SUFFIX,360safe.com
+  - DOMAIN-SUFFIX,so.com
+
+  # ==========================================
+  # 5. 特殊需求 (科研/验证码/上报)
+  # ==========================================
   - DOMAIN-SUFFIX,ncbi.nlm.nih.gov
   - DOMAIN-SUFFIX,crossref.org
-
-  # --- Stun (常用直连) ---
-  - DOMAIN-SUFFIX,stun.syncthing.net
-  - DOMAIN-SUFFIX,stun.isp.net.au
-  - DOMAIN-SUFFIX,stun.nextcloud.com
+  - DOMAIN,api.nopecha.com
+  - DOMAIN-SUFFIX,api.ipify.org
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,api.onedrive.com
