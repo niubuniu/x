@@ -32,7 +32,6 @@ DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,potplayer.daum.net
 DOMAIN-SUFFIX,kyarucloud.moe
 DOMAIN-SUFFIX,translate.googleapis.com
-# --- Brave 浏览器服务 ---
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,translate.brave.com
 DOMAIN-SUFFIX,go-updater.brave.com
@@ -40,7 +39,6 @@ DOMAIN-SUFFIX,componentupdater.brave.com
 DOMAIN-SUFFIX,p3.brave.com
 DOMAIN-SUFFIX,updates-cdn.bravesoftware.com
 DOMAIN-SUFFIX,updates.bravesoftware.com
-# --- 加密 DNS 服务 ---
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
