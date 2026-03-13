@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,mixplorer.com
 DOMAIN-SUFFIX,mikr.us
 DOMAIN-SUFFIX,frog02.mikr.us
 DOMAIN-SUFFIX,henghost.com
-IP-CIDR,158.101.38.202/32,no-resolve #甲骨文vps
+IP-CIDR,158.101.38.202/32,no-resolve #甲骨文AMD1-vps
 
 # --- 网络工具与公共服务 (Web Tools & Services) ---
 DOMAIN-SUFFIX,nic.eu.org
