@@ -13,13 +13,6 @@ DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,migudm.cn
 DOMAIN-SUFFIX,migujs.com
 
-# --- 甲骨文云 (Oracle Cloud) ---
-DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,oraclecloud.com
-DOMAIN-SUFFIX,java.com
-DOMAIN-SUFFIX,mysql.com
-DOMAIN-SUFFIX,oracleimg.com
-
 # --- 通达信 (TDX Financial) ---
 DOMAIN-SUFFIX,tdx.com.cn
 DOMAIN-SUFFIX,myqcloud.com
