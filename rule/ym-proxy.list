@@ -2,6 +2,12 @@
 DOMAIN-SUFFIX,canyang.com
 DOMAIN-SUFFIX,zanyang.com
 
+# --- VPS ---
+DOMAIN-SUFFIX,mikr.us
+DOMAIN-SUFFIX,frog02.mikr.us
+DOMAIN-SUFFIX,henghost.com
+IP-CIDR,158.101.38.202/32,no-resolve #甲骨文AMD1-vps
+
 # --- 开发者工具与托管 (Dev & Hosting) ---
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,tunnelbroker.net
@@ -19,13 +25,6 @@ DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,listary.com
 DOMAIN-SUFFIX,mixplorer.com
-
-# --- VPS 供应商与服务器 (VPS & Servers) ---
-DOMAIN-SUFFIX,alice.sh
-DOMAIN-SUFFIX,mikr.us
-DOMAIN-SUFFIX,frog02.mikr.us
-DOMAIN-SUFFIX,henghost.com
-IP-CIDR,158.101.38.202/32,no-resolve #甲骨文AMD1-vps
 
 # --- 网络工具与公共服务 (Web Tools & Services) ---
 DOMAIN-SUFFIX,nic.eu.org
