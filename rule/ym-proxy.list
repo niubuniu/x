@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,mikr.us
 DOMAIN-SUFFIX,frog02.mikr.us
 DOMAIN-SUFFIX,henghost.com
 IP-CIDR,158.101.38.202/32,no-resolve #甲骨文AMD1-vps
+IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve #alice
 
 # --- 网络工具与公共服务 (Web Tools & Services) ---
 DOMAIN-SUFFIX,nic.eu.org
