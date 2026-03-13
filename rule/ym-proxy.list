@@ -15,13 +15,13 @@ DOMAIN-SUFFIX,x-aniu.com
 DOMAIN-SUFFIX,api.iturrit.com
 
 # --- 软硬件与固件相关 (Software & Firmware) ---
-DOMAIN-SUFFIX,alice.sh
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,listary.com
 DOMAIN-SUFFIX,mixplorer.com
 
 # --- VPS 供应商与服务器 (VPS & Servers) ---
+DOMAIN-SUFFIX,alice.sh
 DOMAIN-SUFFIX,mikr.us
 DOMAIN-SUFFIX,frog02.mikr.us
 DOMAIN-SUFFIX,henghost.com
