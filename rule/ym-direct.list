@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,oracleimg.com
-IP-CIDR,158.101.38.202/32,no-resolve
 
 # --- 通达信 (TDX Financial) ---
 DOMAIN-SUFFIX,tdx.com.cn
