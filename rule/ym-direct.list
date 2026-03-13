@@ -3,10 +3,8 @@ DOMAIN-SUFFIX,yiming.xyz
 DOMAIN-SUFFIX,canyang.com
 DOMAIN-SUFFIX,zanyang.com
 
-
 # --- vps ---
 DOMAIN-SUFFIX,euserv.com
-DOMAIN-SUFFIX,console.alice.sh
 DOMAIN-SUFFIX,vps.iiiiii.ggff.net
 IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve #alice
 IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve #mikr
@@ -64,7 +62,6 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,wechat.com
 
-# --- 关键基础设施 IP (Infra IP) ---
-IP-CIDR,5.5.5.5/32,no-resolve
+# --- dns ---
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
