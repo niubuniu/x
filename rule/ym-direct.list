@@ -1,9 +1,12 @@
 DOMAIN-SUFFIX,yiming.xyz
+# 咪咕视频
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,migudm.cn
+DOMAIN-SUFFIX,oraclecloud.com #甲骨文
+DOMAIN-SUFFIX,oracle.com #甲骨文
 DOMAIN-SUFFIX,migujs.com
 DOMAIN-SUFFIX,alice.sh
 DOMAIN-SUFFIX,euserv.com
