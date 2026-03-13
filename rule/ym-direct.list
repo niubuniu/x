@@ -1,30 +1,43 @@
+# --- 个人及基础设施 (Personal & Infra) ---
 DOMAIN-SUFFIX,yiming.xyz
-DOMAIN-SUFFIX,migu.cn #咪咕视频
-DOMAIN-SUFFIX,miguvideo.com  #咪咕视频
-DOMAIN-SUFFIX,cmvideo.cn  #咪咕视频
-DOMAIN-SUFFIX,migucloud.com  #咪咕视频
-DOMAIN-SUFFIX,migudm.cn  #咪咕视频
-DOMAIN-SUFFIX,migujs.com  #咪咕视频
-DOMAIN-SUFFIX,oraclecloud.com #甲骨文
-DOMAIN-SUFFIX,oracle.com #甲骨文
-DOMAIN-SUFFIX,alice.sh
-DOMAIN-SUFFIX,euserv.com
-DOMAIN-SUFFIX,cloudns.net
+
+# --- CF验证 ---
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,dash.cloudflare.com
-IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve
-IP-CIDR6,2a02:180:6:1::83d/128,no-resolve
-IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve
-IP-CIDR6,2a14:67c1:a070:4::a6/128,no-resolve
-IP-CIDR,159.138.41.254/32
-IP-CIDR,117.133.128.227/32
-IP-CIDR,5.5.5.5/32,no-resolve
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,114.114.114.114/32,no-resolve
-DOMAIN-SUFFIX,189.cn
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
+
+# --- 咪咕视频 (Migu Video) ---
+DOMAIN-SUFFIX,migu.cn
+DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,migucloud.com
+DOMAIN-SUFFIX,migudm.cn
+DOMAIN-SUFFIX,migujs.com
+
+# --- 甲骨文云 (Oracle Cloud) ---
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,mysql.com
+IP-CIDR,158.101.38.202/32,no-resolve
+
+# --- 通达信 (TDX Financial) ---
+DOMAIN-SUFFIX,tdx.com.cn
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,icfqs.com
+IP-CIDR,60.204.220.197/32,no-resolve
+IP-CIDR,116.205.238.143/32,no-resolve
+IP-CIDR,124.71.99.212/32,no-resolve
+IP-CIDR,101.43.22.239/32,no-resolve
+IP-CIDR,121.37.135.149/32,no-resolve
+IP-CIDR,119.3.122.206/32,no-resolve
+IP-CIDR,124.70.221.134/32,no-resolve
+IP-CIDR,123.60.62.190/32,no-resolve
+IP-CIDR,116.205.180.25/32,no-resolve
+
+# --- 国内大厂及公共服务 (Mainland Tech) ---
 DOMAIN-SUFFIX,right.com.cn
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipay.com
@@ -45,16 +58,17 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,wechat.com
-# 通达信
-DOMAIN-SUFFIX,tdx.com.cn
-DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,icfqs.com
-IP-CIDR,60.204.220.197/32
-IP-CIDR,116.205.238.143/32
-IP-CIDR,124.71.99.212/32
-IP-CIDR,101.43.22.239/32
-IP-CIDR,121.37.135.149/32
-IP-CIDR,119.3.122.206/32
-IP-CIDR,124.70.221.134/32
-IP-CIDR,123.60.62.190/32
-IP-CIDR,116.205.180.25/32
+
+# --- 关键基础设施 IP (Infra IP) ---
+# IPv4
+IP-CIDR,5.5.5.5/32,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,114.114.114.114/32,no-resolve
+
+# --- 其他vps---
+DOMAIN-SUFFIX,alice.sh
+DOMAIN-SUFFIX,euserv.com
+IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve #mikr
+IP-CIDR6,2a02:180:6:1::83d/128,no-resolve #euserv
+IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve #alice
+IP-CIDR6,2a14:67c1:a070:4::a6/128,no-resolve #netjett
