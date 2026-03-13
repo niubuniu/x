@@ -1,20 +1,21 @@
-# --- 个人及基础设施 (Personal & Infra) ---
+# --- 个人域名 ---
 DOMAIN-SUFFIX,yiming.xyz
 DOMAIN-SUFFIX,canyang.com
 DOMAIN-SUFFIX,zanyang.com
-DOMAIN-SUFFIX,vps.iiiiii.ggff.net
 
-# --- CF验证 ---
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,dash.cloudflare.com
 
-# ---vps---
+# --- vp s---
 DOMAIN-SUFFIX,euserv.com
 DOMAIN-SUFFIX,console.alice.sh
+DOMAIN-SUFFIX,vps.iiiiii.ggff.net
 IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve #alice
 IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve #mikr
 IP-CIDR6,2a02:180:6:1::83d/128,no-resolve #euserv
 IP-CIDR6,2a14:67c1:a070:4::a6/128,no-resolve #netjett
+
+# --- CF验证 ---
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,dash.cloudflare.com
 
 # --- 咪咕视频 (Migu Video) ---
 DOMAIN-SUFFIX,migu.cn
