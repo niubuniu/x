@@ -2,6 +2,8 @@
 
 
 # --- VPS ---
+DOMAIN-SUFFIX,alice.sh
+DOMAIN-SUFFIX,alice.ws
 DOMAIN-SUFFIX,mikr.us
 DOMAIN-SUFFIX,frog02.mikr.us
 DOMAIN-SUFFIX,henghost.com
