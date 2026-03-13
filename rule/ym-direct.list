@@ -1,6 +1,7 @@
 # --- 个人及基础设施 (Personal & Infra) ---
 DOMAIN-SUFFIX,yiming.xyz
-
+DOMAIN-SUFFIX,canyang.com
+DOMAIN-SUFFIX,vps.iiiiii.ggff.net
 # --- CF验证 ---
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,dash.cloudflare.com
