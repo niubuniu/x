@@ -5,6 +5,14 @@ DOMAIN-SUFFIX,yiming.xyz
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,dash.cloudflare.com
 
+# ---vps---
+DOMAIN-SUFFIX,euserv.com
+DOMAIN-SUFFIX,console.alice.sh
+IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve #alice
+IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve #mikr
+IP-CIDR6,2a02:180:6:1::83d/128,no-resolve #euserv
+IP-CIDR6,2a14:67c1:a070:4::a6/128,no-resolve #netjett
+
 # --- 咪咕视频 (Migu Video) ---
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,miguvideo.com
@@ -56,9 +64,3 @@ DOMAIN-SUFFIX,wechat.com
 IP-CIDR,5.5.5.5/32,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
-
-# --- 其他vps---
-DOMAIN-SUFFIX,euserv.com
-IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve #mikr
-IP-CIDR6,2a02:180:6:1::83d/128,no-resolve #euserv
-IP-CIDR6,2a14:67c1:a070:4::a6/128,no-resolve #netjett
