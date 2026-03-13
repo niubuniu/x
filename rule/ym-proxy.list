@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,x-aniu.com
 DOMAIN-SUFFIX,api.iturrit.com
 
 # --- 软硬件与固件相关 (Software & Firmware) ---
+DOMAIN-SUFFIX,alice.sh
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,listary.com
