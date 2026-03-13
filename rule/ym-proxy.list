@@ -1,38 +1,42 @@
+# --- 个人项目与特定服务 (Personal & Specific) ---
 DOMAIN-SUFFIX,canyang.com
 DOMAIN-SUFFIX,zanyang.com
-DOMAIN-SUFFIX,iiiiii.ggff.net
-DOMAIN-SUFFIX,sub.kkgg.us.kg
-DOMAIN-SUFFIX,care-eyes.com
-DOMAIN-SUFFIX,listary.com
-DOMAIN-SUFFIX,clubsim.com.hk
+
+# --- 开发者工具与托管 (Dev & Hosting) ---
 DOMAIN-SUFFIX,workers.dev
-DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,de5.net
-DOMAIN-SUFFIX,dnshe.com
-DOMAIN-SUFFIX,workers.dev
-DOMAIN-SUFFIX,tv.garden
-DOMAIN-SUFFIX,login.uts.edu.au
 DOMAIN-SUFFIX,tunnelbroker.net
 DOMAIN-SUFFIX,customer.l53.net
+DOMAIN-SUFFIX,dnshe.com
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,de5.net
+DOMAIN-SUFFIX,iiiiii.ggff.net
+DOMAIN-SUFFIX,sub.kkgg.us.kg
+DOMAIN-SUFFIX,x-aniu.com
+DOMAIN-SUFFIX,api.iturrit.com
+
+# --- 软硬件与固件相关 (Software & Firmware) ---
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,henghost.com
-DOMAIN-SUFFIX,api.iturrit.com
+DOMAIN-SUFFIX,listary.com
 DOMAIN-SUFFIX,mixplorer.com
-DOMAIN-SUFFIX,mousegesturesapi.com
-DOMAIN-SUFFIX,vercel-ip.html.zone
-DOMAIN-SUFFIX,weatheroffer.com
-DOMAIN-SUFFIX,check.proxyip.cmliussss.net
-DOMAIN-SUFFIX,x-aniu.com
+
+# --- VPS 供应商与服务器 (VPS & Servers) ---
 DOMAIN-SUFFIX,mikr.us
 DOMAIN-SUFFIX,frog02.mikr.us
+DOMAIN-SUFFIX,henghost.com
+
+# --- 网络工具与公共服务 (Web Tools & Services) ---
 DOMAIN-SUFFIX,nic.eu.org
 DOMAIN-SUFFIX,kadaza.com
 DOMAIN-SUFFIX,emojiall.com
-DOMAIN-SUFFIX,assrt.net
-DOMAIN-SUFFIX,potplayer.daum.net
-DOMAIN-SUFFIX,kyarucloud.moe
-DOMAIN-SUFFIX,translate.googleapis.com
+DOMAIN-SUFFIX,weatheroffer.com
+DOMAIN-SUFFIX,check.proxyip.cmliussss.net
+DOMAIN-SUFFIX,care-eyes.com
+DOMAIN-SUFFIX,tv.garden
+DOMAIN-SUFFIX,clubsim.com.hk
+DOMAIN-SUFFIX,login.uts.edu.au
+
+# --- Brave 浏览器与相关更新 (Brave Ecosystem) ---
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,translate.brave.com
 DOMAIN-SUFFIX,go-updater.brave.com
@@ -40,12 +44,14 @@ DOMAIN-SUFFIX,componentupdater.brave.com
 DOMAIN-SUFFIX,p3.brave.com
 DOMAIN-SUFFIX,updates-cdn.bravesoftware.com
 DOMAIN-SUFFIX,updates.bravesoftware.com
+
+# --- 安全 DNS 与 DoH 服务 (Secure DNS & DoH) ---
 DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,doh.dns.sb
+DOMAIN-SUFFIX,hk-hkg.doh.sb
 DOMAIN-SUFFIX,dns.umbrella.com
 DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
-DOMAIN-SUFFIX,hk-hkg.doh.sb
