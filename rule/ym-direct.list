@@ -1,13 +1,12 @@
 DOMAIN-SUFFIX,yiming.xyz
-# 咪咕视频
-DOMAIN-SUFFIX,migu.cn
-DOMAIN-SUFFIX,miguvideo.com
-DOMAIN-SUFFIX,cmvideo.cn
-DOMAIN-SUFFIX,migucloud.com
-DOMAIN-SUFFIX,migudm.cn
+DOMAIN-SUFFIX,migu.cn #咪咕视频
+DOMAIN-SUFFIX,miguvideo.com  #咪咕视频
+DOMAIN-SUFFIX,cmvideo.cn  #咪咕视频
+DOMAIN-SUFFIX,migucloud.com  #咪咕视频
+DOMAIN-SUFFIX,migudm.cn  #咪咕视频
+DOMAIN-SUFFIX,migujs.com  #咪咕视频
 DOMAIN-SUFFIX,oraclecloud.com #甲骨文
 DOMAIN-SUFFIX,oracle.com #甲骨文
-DOMAIN-SUFFIX,migujs.com
 DOMAIN-SUFFIX,alice.sh
 DOMAIN-SUFFIX,euserv.com
 DOMAIN-SUFFIX,cloudns.net
@@ -22,15 +21,10 @@ IP-CIDR,117.133.128.227/32
 IP-CIDR,5.5.5.5/32,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
-DOMAIN-KEYWORD,cloud.189
-DOMAIN-KEYWORD,baidu
 DOMAIN-SUFFIX,189.cn
-DOMAIN-SUFFIX,ctwing.cn
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,right.com.cn
-DOMAIN,api.nopecha.com
-DOMAIN,www2.deepl.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipay.com
