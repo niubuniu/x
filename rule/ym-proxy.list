@@ -8,6 +8,12 @@ DOMAIN-SUFFIX,frog02.mikr.us
 DOMAIN-SUFFIX,henghost.com
 IP-CIDR,158.101.38.202/32,no-resolve #甲骨文AMD1-vps
 
+# --- CF验证 ---
+DOMAIN-SUFFIX,challenges.cloudflare.com #防机器人验证拦截页
+DOMAIN-SUFFIX,dash.cloudflare.com #控制台主站
+DOMAIN-SUFFIX,api.cloudflare.com #控制台后台API
+DOMAIN-SUFFIX,turnstile.cloudflare.com #验证码组件
+
 # --- 开发者工具与托管 (Dev & Hosting) ---
 DOMAIN-SUFFIX,workers.dev #Cloudflare托管
 DOMAIN-SUFFIX,tunnelbroker.net #隧道代理服务
