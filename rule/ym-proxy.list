@@ -28,6 +28,12 @@ DOMAIN-SUFFIX,go-mpulse.net #Akamai网站性能监控上报
 DOMAIN-SUFFIX,google-analytics.com #谷歌分析统计
 DOMAIN-SUFFIX,googletagmanager.com #谷歌标签管理系统
 DOMAIN-SUFFIX,doubleclick.net #谷歌广告流量统计
+DOMAIN-SUFFIX,js.zi-scripts.com #Zi统计插件脚本分发
+DOMAIN-SUFFIX,d41.co #D41数据分析与短链接服务
+DOMAIN-SUFFIX,tealiumiq.com #Tealium企业级标签管理系统
+DOMAIN-SUFFIX,rlcdn.com #LiveRamp广告数据同步
+DOMAIN-SUFFIX,trustarc.com #TrustArc网站隐私合规与Cookie授权
+DOMAIN-SUFFIX,go-mpulse.net #Akamai网站性能监控上报
 
 # --- 软硬件与固件相关 (Software & Firmware) ---
 DOMAIN-SUFFIX,immortalwrt.org
