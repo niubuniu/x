@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,wechat.com
 
 # --- 公共 DNS (DoH/DoT) 直连 ---
+IP-CIDR,5.5.5.5/32,no-resolve 
 DOMAIN,doh.pub
 DOMAIN,dot.pub
 DOMAIN,dns.alidns.com
