@@ -19,6 +19,15 @@ DOMAIN-SUFFIX,sub.kkgg.us.kg
 DOMAIN-SUFFIX,x-aniu.com
 DOMAIN-SUFFIX,api.iturrit.com
 DOMAIN-SUFFIX,9mod.com #安卓修改版App社区
+DOMAIN-SUFFIX,html.zone #Vercel节点检测及静态托管服务
+DOMAIN-SUFFIX,vercel.app #Vercel前端托管平台默认域名
+DOMAIN-SUFFIX,vercel.com #Vercel官网及管理后台
+
+# --- 网站性能监控与统计 (Analytics) ---
+DOMAIN-SUFFIX,go-mpulse.net #Akamai网站性能监控上报
+DOMAIN-SUFFIX,google-analytics.com #谷歌分析统计
+DOMAIN-SUFFIX,googletagmanager.com #谷歌标签管理系统
+DOMAIN-SUFFIX,doubleclick.net #谷歌广告流量统计
 
 # --- 软硬件与固件相关 (Software & Firmware) ---
 DOMAIN-SUFFIX,immortalwrt.org
