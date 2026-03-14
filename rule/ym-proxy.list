@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,alice.ws
 DOMAIN-SUFFIX,mikr.us
 DOMAIN-SUFFIX,frog02.mikr.us
 DOMAIN-SUFFIX,henghost.com
-IP-CIDR,158.101.38.202/32,no-resolve #甲骨文AMD1-vps
 
 # --- CF验证 ---
 DOMAIN-SUFFIX,challenges.cloudflare.com #防机器人验证拦截页
