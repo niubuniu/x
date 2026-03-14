@@ -38,6 +38,10 @@ IP-CIDR,123.60.62.190/32,no-resolve
 IP-CIDR,116.205.180.25/32,no-resolve
 
 # --- 国内大厂及公共服务 (Mainland Tech) ---
+DOMAIN-SUFFIX,isub-lq.snssdk.com #抖音头条
+DOMAIN-SUFFIX,snssdk.com #抖音头条
+DOMAIN-SUFFIX,amemv.com #抖音头条
+DOMAIN-SUFFIX,pstatp.com #抖音头条
 DOMAIN-SUFFIX,right.com.cn
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,hao123.com
