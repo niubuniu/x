@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,henghost.com
 IP-CIDR,158.101.38.202/32,no-resolve #甲骨文AMD1-vps
 
 # --- 开发者工具与托管 (Dev & Hosting) ---
-DOMAIN-SUFFIX,workers.dev
-DOMAIN-SUFFIX,tunnelbroker.net
+DOMAIN-SUFFIX,workers.dev #Cloudflare托管
+DOMAIN-SUFFIX,tunnelbroker.net #隧道代理服务
 DOMAIN-SUFFIX,customer.l53.net
 DOMAIN-SUFFIX,dnshe.com
 DOMAIN-SUFFIX,qichiyu.com
