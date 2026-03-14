@@ -45,13 +45,23 @@ DOMAIN-SUFFIX,p3.brave.com
 DOMAIN-SUFFIX,updates-cdn.bravesoftware.com
 DOMAIN-SUFFIX,updates.bravesoftware.com
 
-# --- 安全 DNS 与 DoH 服务 (Secure DNS & DoH) ---
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
-DOMAIN-SUFFIX,dot.sb
-DOMAIN-SUFFIX,doh.dns.sb
-DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN-SUFFIX,dns.umbrella.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,doh.opendns.com
+# --- 国外公共 DNS (DoH/DoT) 强制代理 ---
+DOMAIN,dns.google
+DOMAIN,cloudflare-dns.com
+DOMAIN,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN,dot.sb
+DOMAIN,doh.dns.sb
+DOMAIN,hk-hkg.doh.sb
+DOMAIN,dns.umbrella.com
+DOMAIN,dns.quad9.net
+DOMAIN,doh.opendns.com
+
+# --- 国外 DNS 常用 IP ---
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,9.9.9.9/32,no-resolve
+IP-CIDR,149.112.112.112/32,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
