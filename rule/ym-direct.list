@@ -5,7 +5,6 @@ DOMAIN-SUFFIX,zanyang.com
 
 # --- vps ---
 DOMAIN-SUFFIX,euserv.com
-DOMAIN-SUFFIX,vps.iiiiii.ggff.net
 IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve #alice
 IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve #mikr
 IP-CIDR6,2a02:180:6:1::83d/128,no-resolve #euserv
