@@ -2,12 +2,6 @@
 DOMAIN-SUFFIX,yiming.xyz
 DOMAIN-SUFFIX,zanyang.com
 
-#--- 绕过lucky ---
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,ident.me
-DOMAIN-SUFFIX,icanhazip.com
-DOMAIN-KEYWORD,ipv6
-
 # --- vps ---
 DOMAIN-SUFFIX,euserv.com
 IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve #alice
