@@ -1,3 +1,4 @@
 IP-CIDR,198.18.23.57/32,no-resolve #NodeSeek
 IP-CIDR,113.29.226.135/32,no-resolve # NodeSeek
 IP-CIDR,158.101.38.202/32,no-resolve #甲骨文AMD1-vps
+IP-CIDR6,2603:c020:1a:ee00:0:d461:4cbe:8983/128,no-resolve #甲骨文AMD1-vps
