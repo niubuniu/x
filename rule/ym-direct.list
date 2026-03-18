@@ -1,5 +1,15 @@
 # --- 个人域名 ---
-DOMAIN-SUFFIX,yiming.xyz
+DOMAIN-SUFFIX,lucky.yiming.xyz
+DOMAIN-SUFFIX,router.yiming.xyz
+DOMAIN-SUFFIX,qinglong.yiming.xyz
+DOMAIN-SUFFIX,webdav.yiming.xyz
+DOMAIN-SUFFIX,nikki.yiming.xyz
+DOMAIN-SUFFIX,share.yiming.xyz
+DOMAIN-SUFFIX,substore.yiming.xyz
+DOMAIN-SUFFIX,docker.yiming.xyz
+DOMAIN-SUFFIX,aria.yiming.xyz
+DOMAIN-SUFFIX,openlist.yiming.xyz
+DOMAIN-SUFFIX,ocihelp.yiming.xyz
 DOMAIN-SUFFIX,zanyang.com
 
 # --- vps ---
