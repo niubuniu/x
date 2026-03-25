@@ -1,6 +1,8 @@
 IP-CIDR,198.18.23.57/32,no-resolve #NodeSeek
 IP-CIDR,113.29.226.135/32,no-resolve # NodeSeek
-IP-CIDR,158.101.38.202/32,no-resolve #甲骨文US-AMD1-vps
+IP-CIDR,158.101.38.202/32,no-resolve #甲骨文US-AMD-vps
+IP-CIDR,129.146.63.12/32,no-resolve #甲骨文US-ARM-vps
 IP-CIDR,161.118.227.249/32,no-resolve #甲骨文SG-AMD-vps
-IP-CIDR6,2603:c020:1a:ee00:0:d461:4cbe:8983/128,no-resolve #甲骨文US-AMD1-vps
+IP-CIDR6,2603:c020:1a:ee00:0:9d02:2dee:552c/128,no-resolve #甲骨文US-ARM-vps
+IP-CIDR6,2603:c020:1a:ee00:0:d461:4cbe:8983/128,no-resolve #甲骨文US-AMD-vps
 IP-CIDR6,2603:c024:4518:2200:0:9fe5:a6b2:9b5e/128,no-resolve #甲骨文SG-AMD-vps
