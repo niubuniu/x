@@ -6,3 +6,4 @@ IP-CIDR6,2603:c020:1a:ee00:0:d461:4cbe:8983/128,no-resolve #甲骨文US-AMD-vps
 IP-CIDR6,2603:c020:1a:ee00:0:9d02:2dee:552c/128,no-resolve #甲骨文US-ARM-vps
 IP-CIDR6,2603:c024:4518:2200:0:9fe5:a6b2:9b5e/128,no-resolve #甲骨文SG-AMD-vps
 IP-CIDR6,2603:c024:4518:2200:0:705:cbc1:2c3e/128,no-resolve #甲骨文SG-ARM-vps
+DOMAIN-SUFFIX,asirui.com
