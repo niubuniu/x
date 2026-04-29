@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,9mod.com #安卓修改版App社区
 DOMAIN-SUFFIX,html.zone #Vercel节点检测及静态托管服务
 DOMAIN-SUFFIX,vercel.app #Vercel前端托管平台默认域名
 DOMAIN-SUFFIX,vercel.com #Vercel官网及管理后台
+DOMAIN-SUFFIX,gh-proxy.com #加速
 
 # --- 网站性能监控与统计 (Analytics) ---
 DOMAIN-SUFFIX,go-mpulse.net #Akamai网站性能监控上报
