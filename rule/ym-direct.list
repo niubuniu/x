@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,deepseek.com
 
 # --- 公共 DNS (DoH/DoT) 直连 ---
 IP-CIDR,5.5.5.5/32,no-resolve 
