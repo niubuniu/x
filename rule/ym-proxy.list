@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,alice.ws
 DOMAIN-SUFFIX,mikr.us
 DOMAIN-SUFFIX,frog02.mikr.us
 DOMAIN-SUFFIX,henghost.com
+DOMAIN-SUFFIX,asirui.com
 
 # --- CF验证 ---
 DOMAIN-SUFFIX,challenges.cloudflare.com #防机器人验证拦截页
