@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,aria.yiming.xyz
 DOMAIN-SUFFIX,openlist.yiming.xyz
 DOMAIN-SUFFIX,ocihelp.yiming.xyz
 DOMAIN-SUFFIX,zanyang.com
+#国内AI
+DOMAIN-SUFFIX,chat.deepseek.com
 
 # --- vps ---
 DOMAIN-SUFFIX,euserv.com
