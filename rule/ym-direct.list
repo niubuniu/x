@@ -13,8 +13,12 @@ DOMAIN-SUFFIX,ocihelp.yiming.xyz
 DOMAIN-SUFFIX,zanyang.com
 
 #国内AI
-DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseek.com 
+DOMAIN-SUFFIX,www.deepseek.com
 DOMAIN-SUFFIX,chat.deepseek.com
+DOMAIN-SUFFIX,api.deepseek.com
+DOMAIN-SUFFIX,cdn.deepseek.com
+DOMAIN-SUFFIX,status.deepseek.com 
 
 # --- vps ---
 DOMAIN-SUFFIX,euserv.com
