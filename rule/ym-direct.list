@@ -12,12 +12,13 @@ DOMAIN-SUFFIX,openlist.yiming.xyz
 DOMAIN-SUFFIX,ocihelp.yiming.xyz
 DOMAIN-SUFFIX,zanyang.com
 
+#deepseek
+DOMAIN-SUFFIX,deepseek.com
 # 1. 必须放行：字节跳动火山引擎 CDN（DeepSeek 国内绝大多数静态资源、前端组件挂载在这里）
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,volcengine.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,tos-v.pstatp.com
-
 # 2. 必须放行：前端通用公共库、字体与第三方安全验证（如极验、Cloudflare 盾）
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,cloudflare.com
