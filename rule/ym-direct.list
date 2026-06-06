@@ -19,9 +19,8 @@ DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,volcengine.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,tos-v.pstatp.com
-# 2. 必须放行：前端通用公共库、字体与第三方安全验证（如极验、Cloudflare 盾）
+# 2. 必须放行：前端通用公共库、字体与第三方安全验证（如极验）
 DOMAIN-SUFFIX,geetest.com
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,gstatic.com
 
