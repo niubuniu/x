@@ -6,10 +6,14 @@ DOMAIN-SUFFIX,status.yiming.xyz
 DOMAIN-SUFFIX,canyang.com
 
 # --- CF验证 ---
-#DOMAIN-SUFFIX,challenges.cloudflare.com #防机器人验证拦截页
-#DOMAIN-SUFFIX,dash.cloudflare.com #控制台主站
-#DOMAIN-SUFFIX,api.cloudflare.com #控制台后台API
-#DOMAIN-SUFFIX,turnstile.cloudflare.com #验证码组件
+DOMAIN-SUFFIX,challenges.cloudflare.com #防机器人验证拦截页
+DOMAIN-SUFFIX,dash.cloudflare.com #控制台主站
+DOMAIN-SUFFIX,api.cloudflare.com #控制台后台API
+DOMAIN-SUFFIX,turnstile.cloudflare.com #验证码组件
+DOMAIN-SUFFIX,cdnjs.cloudflare.com
+DOMAIN-SUFFIX,cloudflaremirrors.com
+DOMAIN-SUFFIX,cloudflare.com
+
 
 # --- 开发者工具与托管 (Dev & Hosting) ---
 DOMAIN-SUFFIX,workers.dev #Cloudflare托管
