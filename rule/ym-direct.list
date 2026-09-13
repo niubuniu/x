@@ -19,8 +19,6 @@ IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve #mikr
 IP-CIDR6,2a02:180:6:1::83d/128,no-resolve #euserv
 IP-CIDR6,2a14:67c1:a070:4::a6/128,no-resolve #netjett
 
-DOMAIN-SUFFIX,msftconnecttest.com
-
 # --- 咪咕视频 (Migu Video) ---
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,miguvideo.com
@@ -45,15 +43,16 @@ IP-CIDR,123.60.62.190/32,no-resolve
 IP-CIDR,116.205.180.25/32,no-resolve
 
 # --- 国内大厂及公共服务 (Mainland Tech) ---
-DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,amemv.com 
 DOMAIN-SUFFIX,pstatp.com 
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,right.com.cn
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipay.com
@@ -61,7 +60,6 @@ DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,xiaomi.com
