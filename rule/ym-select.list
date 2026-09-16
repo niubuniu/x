@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,frog02.mikr.us
 DOMAIN-SUFFIX,henghost.com
 DOMAIN-SUFFIX,asirui.com
 DOMAIN-SUFFIX,yuusei.io
+DOMAIN-SUFFIX,euserv.com
 IP-CIDR6,2a14:67c4:12::18b/128,no-resolve #alice-yuusei
 IP-CIDR6,2a02:180:6:1::83db/128,no-resolve #euserv
 
