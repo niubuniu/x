@@ -1,82 +1,28 @@
 # --- 个人域名 ---
-DOMAIN-SUFFIX,lucky.yiming.xyz
-DOMAIN-SUFFIX,router.yiming.xyz
-DOMAIN-SUFFIX,qinglong.yiming.xyz
-DOMAIN-SUFFIX,webdav.yiming.xyz
-DOMAIN-SUFFIX,nikki.yiming.xyz
-DOMAIN-SUFFIX,share.yiming.xyz
-DOMAIN-SUFFIX,substore.yiming.xyz
-DOMAIN-SUFFIX,docker.yiming.xyz
-DOMAIN-SUFFIX,aria.yiming.xyz
-DOMAIN-SUFFIX,iptv.yiming.xyz
+lucky.yiming.xyz
+router.yiming.xyz
+qinglong.yiming.xyz
+webdav.yiming.xyz
+nikki.yiming.xyz
+share.yiming.xyz
+substore.yiming.xyz
+docker.yiming.xyz
+aria.yiming.xyz
+iptv.yiming.xyz
 
 # --- vps ---
-DOMAIN-SUFFIX,euserv.com
-IP-CIDR6,2a14:67c0:302:ed::a/128,no-resolve #alice
-IP-CIDR6,2a01:4f9:6b:47e9::2145/128,no-resolve #mikr
-IP-CIDR6,2a02:180:6:1::83d/128,no-resolve #euserv
-IP-CIDR6,2a14:67c1:a070:4::a6/128,no-resolve #netjett
+euserv.com
 
 # --- 咪咕视频 (Migu Video) ---
-DOMAIN-SUFFIX,migu.cn
-DOMAIN-SUFFIX,miguvideo.com
-DOMAIN-SUFFIX,cmvideo.cn
-DOMAIN-SUFFIX,migucloud.com
-DOMAIN-SUFFIX,migudm.cn
-DOMAIN-SUFFIX,migujs.com
-DOMAIN-SUFFIX,wapx.cmvideo.cn
+migu.cn
+miguvideo.com
+cmvideo.cn
+migucloud.com
+migudm.cn
+migujs.com
+wapx.cmvideo.cn
 
 # --- 通达信 (TDX Financial) ---
-DOMAIN-SUFFIX,tdx.com.cn
-DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,icfqs.com
-IP-CIDR,60.204.220.197/32,no-resolve
-IP-CIDR,116.205.238.143/32,no-resolve
-IP-CIDR,124.71.99.212/32,no-resolve
-IP-CIDR,101.43.22.239/32,no-resolve
-IP-CIDR,121.37.135.149/32,no-resolve
-IP-CIDR,119.3.122.206/32,no-resolve
-IP-CIDR,124.70.221.134/32,no-resolve
-IP-CIDR,123.60.62.190/32,no-resolve
-IP-CIDR,116.205.180.25/32,no-resolve
-
-# --- 国内大厂及公共服务 (Mainland Tech) ---
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,amemv.com 
-DOMAIN-SUFFIX,pstatp.com 
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,toutiao.com
-DOMAIN-SUFFIX,right.com.cn
-DOMAIN-SUFFIX,189.cn
-DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,aliapp.org
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,huawei.com
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,xiaomi.com
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,weixin.com
-DOMAIN-SUFFIX,wechat.com
-
-# --- 公共 DNS (DoH/DoT) 直连 ---
-IP-CIDR,5.5.5.5/32,no-resolve 
-DOMAIN,doh.pub
-DOMAIN,dot.pub
-DOMAIN,dns.alidns.com
-DOMAIN,doh.crypto.sc
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,223.6.6.6/32,no-resolve
-IP-CIDR,119.29.29.29/32,no-resolve
-IP-CIDR,1.12.12.12/32,no-resolve
-IP-CIDR,120.53.53.53/32,no-resolve
+tdx.com.cn
+myqcloud.com
+icfqs.com
