@@ -14,6 +14,16 @@ searxng.yiming.xyz
 ssh.yiming.xyz
 zanyang.com
 
+# --- VPS ---
+alice.sh
+alice.ws
+mikr.us
+frog02.mikr.us
+henghost.com
+asirui.com
+yuusei.io
+euserv.com
+
 # --- CF验证 ---
 challenges.cloudflare.com
 dash.cloudflare.com
@@ -76,4 +86,3 @@ componentupdater.brave.com
 p3.brave.com
 updates-cdn.bravesoftware.com
 updates.bravesoftware.com
-
