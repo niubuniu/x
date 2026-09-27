@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,qlusarm.yiming.xyz
 DOMAIN-SUFFIX,searxng.yiming.xyz
 DOMAIN-SUFFIX,ssh.yiming.xyz
 DOMAIN-SUFFIX,zanyang.com
-
 # --- CF验证 ---
 DOMAIN-SUFFIX,challenges.cloudflare.com #防机器人验证拦截页
 DOMAIN-SUFFIX,dash.cloudflare.com #控制台主站
@@ -22,7 +21,6 @@ DOMAIN-SUFFIX,turnstile.cloudflare.com #验证码组件
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,cloudflaremirrors.com
 DOMAIN-SUFFIX,cloudflare.com
-
 # --- 开发者工具与托管 (Dev & Hosting) ---
 DOMAIN-SUFFIX,workers.dev #Cloudflare托管
 DOMAIN-SUFFIX,tunnelbroker.net #隧道代理服务
@@ -38,7 +36,6 @@ DOMAIN-SUFFIX,html.zone #Vercel节点检测及静态托管服务
 DOMAIN-SUFFIX,vercel.app #Vercel前端托管平台默认域名
 DOMAIN-SUFFIX,vercel.com #Vercel官网及管理后台
 DOMAIN-SUFFIX,gh-proxy.com #加速
-
 # --- 网站性能监控与统计 (Analytics) ---
 DOMAIN-SUFFIX,go-mpulse.net #Akamai网站性能监控上报
 DOMAIN-SUFFIX,google-analytics.com #谷歌分析统计
@@ -50,14 +47,12 @@ DOMAIN-SUFFIX,tealiumiq.com #Tealium企业级标签管理系统
 DOMAIN-SUFFIX,rlcdn.com #LiveRamp广告数据同步
 DOMAIN-SUFFIX,trustarc.com #TrustArc网站隐私合规与Cookie授权
 DOMAIN-SUFFIX,go-mpulse.net #Akamai网站性能监控上报
-
 # --- 软硬件与固件相关 (Software & Firmware) ---
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,listary.com
 DOMAIN-SUFFIX,mixplorer.com
 DOMAIN-SUFFIX,kyarucloud.moe
-
 # --- 网络工具与公共服务 (Web Tools & Services) ---
 DOMAIN-SUFFIX,nic.eu.org
 DOMAIN-SUFFIX,kadaza.com
@@ -68,7 +63,6 @@ DOMAIN-SUFFIX,care-eyes.com
 DOMAIN-SUFFIX,tv.garden
 DOMAIN-SUFFIX,clubsim.com.hk
 DOMAIN-SUFFIX,login.uts.edu.au
-
 # --- Brave 浏览器与相关更新 (Brave Ecosystem) ---
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,translate.brave.com
@@ -77,7 +71,6 @@ DOMAIN-SUFFIX,componentupdater.brave.com
 DOMAIN-SUFFIX,p3.brave.com
 DOMAIN-SUFFIX,updates-cdn.bravesoftware.com
 DOMAIN-SUFFIX,updates.bravesoftware.com
-
 # --- 国外公共 DNS (DoH/DoT) 强制代理 ---
 DOMAIN,dns.google
 DOMAIN,cloudflare-dns.com
@@ -88,7 +81,6 @@ DOMAIN,hk-hkg.doh.sb
 DOMAIN,dns.umbrella.com
 DOMAIN,dns.quad9.net
 DOMAIN,doh.opendns.com
-
 # --- 国外 DNS 常用 IP ---
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
