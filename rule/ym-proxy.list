@@ -1,4 +1,18 @@
 # --- 个人域名 ---
+DOMAIN-SUFFIX,komari.yiming.xyz
+DOMAIN-SUFFIX,mm.yiming.xyz
+DOMAIN-SUFFIX,drawio.yiming.xyz
+DOMAIN-SUFFIX,filebrowser.yiming.xyz
+DOMAIN-SUFFIX,filecodebox.yiming.xyz
+DOMAIN-SUFFIX,kpanel.yiming.xyz
+DOMAIN-SUFFIX,libretv.yiming.xyz
+DOMAIN-SUFFIX,moontv.yiming.xyz
+DOMAIN-SUFFIX,pdf.yiming.xyz
+DOMAIN-SUFFIX,pw.yiming.xyz
+DOMAIN-SUFFIX,qlusarm.yiming.xyz
+DOMAIN-SUFFIX,searxng.yiming.xyz
+DOMAIN-SUFFIX,ssh.yiming.xyz
+DOMAIN-SUFFIX,zanyang.com
 
 # --- CF验证 ---
 DOMAIN-SUFFIX,challenges.cloudflare.com #防机器人验证拦截页
