@@ -66,6 +66,7 @@ openwrt.org
 listary.com
 mixplorer.com
 kyarucloud.moe
+brave.com
 
 # --- 网络工具与公共服务 (Web Tools & Services) ---
 nic.eu.org
@@ -77,12 +78,3 @@ care-eyes.com
 tv.garden
 clubsim.com.hk
 login.uts.edu.au
-
-# --- Brave 浏览器与相关更新 (Brave Ecosystem) ---
-brave.com
-translate.brave.com
-go-updater.brave.com
-componentupdater.brave.com
-p3.brave.com
-updates-cdn.bravesoftware.com
-updates.bravesoftware.com
