@@ -1,92 +1,79 @@
 # --- 个人域名 ---
-DOMAIN-SUFFIX,komari.yiming.xyz
-DOMAIN-SUFFIX,mm.yiming.xyz
-DOMAIN-SUFFIX,drawio.yiming.xyz
-DOMAIN-SUFFIX,filebrowser.yiming.xyz
-DOMAIN-SUFFIX,filecodebox.yiming.xyz
-DOMAIN-SUFFIX,kpanel.yiming.xyz
-DOMAIN-SUFFIX,libretv.yiming.xyz
-DOMAIN-SUFFIX,moontv.yiming.xyz
-DOMAIN-SUFFIX,pdf.yiming.xyz
-DOMAIN-SUFFIX,pw.yiming.xyz
-DOMAIN-SUFFIX,qlusarm.yiming.xyz
-DOMAIN-SUFFIX,searxng.yiming.xyz
-DOMAIN-SUFFIX,ssh.yiming.xyz
-DOMAIN-SUFFIX,zanyang.com
+komari.yiming.xyz
+mm.yiming.xyz
+drawio.yiming.xyz
+filebrowser.yiming.xyz
+filecodebox.yiming.xyz
+kpanel.yiming.xyz
+libretv.yiming.xyz
+moontv.yiming.xyz
+pdf.yiming.xyz
+pw.yiming.xyz
+qlusarm.yiming.xyz
+searxng.yiming.xyz
+ssh.yiming.xyz
+zanyang.com
+
 # --- CF验证 ---
-DOMAIN-SUFFIX,challenges.cloudflare.com #防机器人验证拦截页
-DOMAIN-SUFFIX,dash.cloudflare.com #控制台主站
-DOMAIN-SUFFIX,api.cloudflare.com #控制台后台API
-DOMAIN-SUFFIX,turnstile.cloudflare.com #验证码组件
-DOMAIN-SUFFIX,cdnjs.cloudflare.com
-DOMAIN-SUFFIX,cloudflaremirrors.com
-DOMAIN-SUFFIX,cloudflare.com
+challenges.cloudflare.com
+dash.cloudflare.com
+api.cloudflare.com
+turnstile.cloudflare.com
+cdnjs.cloudflare.com
+cloudflaremirrors.com
+cloudflare.com
+
 # --- 开发者工具与托管 (Dev & Hosting) ---
-DOMAIN-SUFFIX,workers.dev #Cloudflare托管
-DOMAIN-SUFFIX,tunnelbroker.net #隧道代理服务
-DOMAIN-SUFFIX,customer.l53.net
-DOMAIN-SUFFIX,dnshe.com
-DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,de5.net
-DOMAIN-SUFFIX,sub.kkgg.us.kg
-DOMAIN-SUFFIX,x-aniu.com
-DOMAIN-SUFFIX,api.iturrit.com
-DOMAIN-SUFFIX,9mod.com #安卓修改版App社区
-DOMAIN-SUFFIX,html.zone #Vercel节点检测及静态托管服务
-DOMAIN-SUFFIX,vercel.app #Vercel前端托管平台默认域名
-DOMAIN-SUFFIX,vercel.com #Vercel官网及管理后台
-DOMAIN-SUFFIX,gh-proxy.com #加速
+workers.dev
+tunnelbroker.net
+customer.l53.net
+dnshe.com
+qichiyu.com
+de5.net
+sub.kkgg.us.kg
+x-aniu.com
+api.iturrit.com
+9mod.com
+html.zone
+vercel.app
+vercel.com
+gh-proxy.com
+
 # --- 网站性能监控与统计 (Analytics) ---
-DOMAIN-SUFFIX,go-mpulse.net #Akamai网站性能监控上报
-DOMAIN-SUFFIX,google-analytics.com #谷歌分析统计
-DOMAIN-SUFFIX,googletagmanager.com #谷歌标签管理系统
-DOMAIN-SUFFIX,doubleclick.net #谷歌广告流量统计
-DOMAIN-SUFFIX,js.zi-scripts.com #Zi统计插件脚本分发
-DOMAIN-SUFFIX,d41.co #D41数据分析与短链接服务
-DOMAIN-SUFFIX,tealiumiq.com #Tealium企业级标签管理系统
-DOMAIN-SUFFIX,rlcdn.com #LiveRamp广告数据同步
-DOMAIN-SUFFIX,trustarc.com #TrustArc网站隐私合规与Cookie授权
-DOMAIN-SUFFIX,go-mpulse.net #Akamai网站性能监控上报
+go-mpulse.net
+google-analytics.com
+googletagmanager.com
+doubleclick.net
+js.zi-scripts.com
+d41.co
+tealiumiq.com
+rlcdn.com
+trustarc.com
+
 # --- 软硬件与固件相关 (Software & Firmware) ---
-DOMAIN-SUFFIX,immortalwrt.org
-DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,listary.com
-DOMAIN-SUFFIX,mixplorer.com
-DOMAIN-SUFFIX,kyarucloud.moe
+immortalwrt.org
+openwrt.org
+listary.com
+mixplorer.com
+kyarucloud.moe
+
 # --- 网络工具与公共服务 (Web Tools & Services) ---
-DOMAIN-SUFFIX,nic.eu.org
-DOMAIN-SUFFIX,kadaza.com
-DOMAIN-SUFFIX,emojiall.com
-DOMAIN-SUFFIX,weatheroffer.com
-DOMAIN-SUFFIX,check.proxyip.cmliussss.net
-DOMAIN-SUFFIX,care-eyes.com
-DOMAIN-SUFFIX,tv.garden
-DOMAIN-SUFFIX,clubsim.com.hk
-DOMAIN-SUFFIX,login.uts.edu.au
+nic.eu.org
+kadaza.com
+emojiall.com
+weatheroffer.com
+check.proxyip.cmliussss.net
+care-eyes.com
+tv.garden
+clubsim.com.hk
+login.uts.edu.au
+
 # --- Brave 浏览器与相关更新 (Brave Ecosystem) ---
-DOMAIN-SUFFIX,brave.com
-DOMAIN-SUFFIX,translate.brave.com
-DOMAIN-SUFFIX,go-updater.brave.com
-DOMAIN-SUFFIX,componentupdater.brave.com
-DOMAIN-SUFFIX,p3.brave.com
-DOMAIN-SUFFIX,updates-cdn.bravesoftware.com
-DOMAIN-SUFFIX,updates.bravesoftware.com
-# --- 国外公共 DNS (DoH/DoT) 强制代理 ---
-DOMAIN,dns.google
-DOMAIN,cloudflare-dns.com
-DOMAIN,1dot1dot1dot1.cloudflare-dns.com
-DOMAIN,dot.sb
-DOMAIN,doh.dns.sb
-DOMAIN,hk-hkg.doh.sb
-DOMAIN,dns.umbrella.com
-DOMAIN,dns.quad9.net
-DOMAIN,doh.opendns.com
-# --- 国外 DNS 常用 IP ---
-IP-CIDR,8.8.8.8/32,no-resolve
-IP-CIDR,8.8.4.4/32,no-resolve
-IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.0.0.1/32,no-resolve
-IP-CIDR,9.9.9.9/32,no-resolve
-IP-CIDR,149.112.112.112/32,no-resolve
-IP-CIDR,208.67.222.222/32,no-resolve
-IP-CIDR,208.67.220.220/32,no-resolve
+brave.com
+translate.brave.com
+go-updater.brave.com
+componentupdater.brave.com
+p3.brave.com
+updates-cdn.bravesoftware.com
+updates.bravesoftware.com
+
