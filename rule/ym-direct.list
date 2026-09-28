@@ -10,6 +10,9 @@ docker.yiming.xyz
 aria.yiming.xyz
 iptv.yiming.xyz
 
+# --- 公共 ---
+pool.ntp.org
+
 # --- 软件 ---
 +.iotcplatform.com
 
