@@ -13,6 +13,7 @@ iptv.yiming.xyz
 # --- 公共 ---
 pool.ntp.org
 time.android.com
+api.senoffical.org
 
 # --- 软件 ---
 +.iotcplatform.com
