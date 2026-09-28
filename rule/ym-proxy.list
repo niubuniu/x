@@ -58,8 +58,10 @@ api.iturrit.com
 9mod.com
 html.zone
 vercel.app
-vercel.com
++.vercel.com
 gh-proxy.com
++.vercel.app
+
 
 # --- 网站性能监控与统计 (Analytics) ---
 go-mpulse.net
@@ -77,7 +79,7 @@ nic.eu.org
 kadaza.com
 emojiall.com
 weatheroffer.com
-cmliussss.net
++.cmliussss.net
 care-eyes.com
 tv.garden
 clubsim.com.hk
