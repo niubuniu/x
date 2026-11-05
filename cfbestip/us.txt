@@ -1,10 +1,20 @@
-47.57.181.17#US本地优选1
-8.219.134.138#US本地优选2
-172.232.232.163#US本地优选3
-156.231.115.246#US本地优选4
-104.194.91.47#US本地优选5
-179.253.244.21#US本地优选6
-179.255.100.118#US本地优选7
-69.63.214.235#US本地优选8
-179.255.116.102#US本地优选9
-20.115.212.85#US本地优选10
+179.255.157.247:8443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+144.225.255.169:443#LAX-US-North America-Los Angeles-AS197196-Panstar Cloud Limited
+179.253.235.33:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+179.253.255.157:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+179.253.247.190:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+188.255.157.153:443#LAX-US-North America-Los Angeles-AS7488-CNServer LLC
+131.143.180.175:8443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+179.253.247.105:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+179.253.251.146:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+179.255.132.76:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+179.255.102.54:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+131.143.180.132:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+131.143.180.91:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+179.253.231.116:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+23.246.154.171:443#SJC-US-North America-San Jose-AS402681-AYIT
+179.253.255.9:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+179.253.241.205:8443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+179.255.107.60:8443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
+23.246.154.231:443#SJC-US-North America-San Jose-AS402681-AYIT
+179.255.141.69:443#LAX-US-North America-Los Angeles-AS906-DMIT Cloud Services
