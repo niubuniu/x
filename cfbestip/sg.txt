@@ -1,25 +1,20 @@
-47.100.208.186#SG本地优选
-185.194.54.137#SG本地优选
-185.37.255.190#SG本地优选
-185.194.54.15#SG本地优选
-172.104.59.228#SG本地优选
-139.162.44.222#SG本地优选
-172.236.130.18#SG本地优选
-172.236.154.50#SG本地优选
-139.162.41.109#SG本地优选
-172.236.154.50#SG本地优选
-139.162.4.242#SG本地优选
-139.162.23.48#SG本地优选
-139.162.60.149#SG本地优选
-43.160.241.174#SG本地优选
-104.64.192.116#SG本地优选
-172.104.186.18#SG本地优选
-43.160.226.219#SG本地优选
-172.236.140.241#SG本地优选
-139.162.37.6#SG本地优选
-188.253.120.208#SG本地优选
-172.104.53.25#SG本地优选
-143.42.66.91#SG本地优选
-172.104.186.30#SG本地优选
-172.104.171.151#SG本地优选
-89.28.239.58#SG本地优选
+139.162.41.109:443#SIN-SG-Asia Pacific-Singapore-AS63949-Akamai Connected Cloud
+77.93.90.94:443#SIN-SG-Asia Pacific-Singapore-AS63150-BAGE CLOUD LLC
+45.77.33.228:443#SIN-SG-Asia Pacific-Singapore-AS20473-The Constant Company, LLC
+96.9.213.89:443#SIN-SG-Asia Pacific-Singapore-AS8888-xTom Pty Ltd
+161.118.219.55:443#SIN-SG-Asia Pacific-Singapore-AS31898-Oracle Corporation
+139.162.40.240:443#SIN-SG-Asia Pacific-Singapore-AS63949-Akamai Connected Cloud
+161.118.210.121:443#SIN-SG-Asia Pacific-Singapore-AS31898-Oracle Corporation
+149.28.140.125:443#SIN-SG-Asia Pacific-Singapore-AS20473-The Constant Company, LLC
+149.28.137.52:443#SIN-SG-Asia Pacific-Singapore-AS20473-The Constant Company, LLC
+209.97.161.7:443#SIN-SG-Asia Pacific-Singapore-AS14061-DigitalOcean, LLC
+45.32.109.225:443#SIN-SG-Asia Pacific-Singapore-AS20473-The Constant Company, LLC
+172.104.60.181:8443#SIN-SG-Asia Pacific-Singapore-AS63949-Akamai Connected Cloud
+45.76.187.126:443#SIN-SG-Asia Pacific-Singapore-AS20473-The Constant Company, LLC
+216.195.195.205:443#SIN-SG-Asia Pacific-Singapore-AS197196-Panstar Cloud Limited
+138.2.66.236:443#SIN-SG-Asia Pacific-Singapore-AS31898-Oracle Corporation
+207.148.79.171:443#SIN-SG-Asia Pacific-Singapore-AS20473-The Constant Company, LLC
+172.104.57.237:443#SIN-SG-Asia Pacific-Singapore-AS63949-Akamai Connected Cloud
+172.236.139.181:443#SIN-SG-Asia Pacific-Singapore-AS63949-Akamai Connected Cloud
+149.28.150.141:443#SIN-SG-Asia Pacific-Singapore-AS20473-The Constant Company, LLC
+172.237.90.144:443#SIN-SG-Asia Pacific-Singapore-AS63949-Akamai Connected Cloud
