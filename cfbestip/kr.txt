@@ -1,50 +1,20 @@
-45.93.31.131#KR本地优选
-52.78.114.26#KR本地优选
-43.155.221.27#KR本地优选
-3.38.205.231#KR本地优选
-15.165.9.110#KR本地优选
-54.180.147.65#KR本地优选
-101.33.68.172#KR本地优选
-54.180.95.74#KR本地优选
-119.28.162.39#KR本地优选
-15.165.37.107#KR本地优选
-13.209.99.217#KR本地优选
-43.128.130.43#KR本地优选
-43.155.205.141#KR本地优选
-15.165.10.82#KR本地优选
-3.37.245.168#KR本地优选
-43.128.135.99#KR本地优选
-13.124.169.29#KR本地优选
-54.180.151.15#KR本地优选
-43.131.242.223#KR本地优选
-13.125.114.105#KR本地优选
-13.125.71.205#KR本地优选
-54.180.236.101#KR本地优选
-3.38.216.35#KR本地优选
-3.36.109.49#KR本地优选
-3.36.127.156#KR本地优选
-15.165.200.3#KR本地优选
-43.164.135.253#KR本地优选
-15.164.240.218#KR本地优选
-43.131.247.123#KR本地优选
-54.180.141.246#KR本地优选
-13.125.127.161#KR本地优选
-3.39.222.18#KR本地优选
-43.164.137.118#KR本地优选
-45.141.139.209#KR本地优选
-43.128.147.224#KR本地优选
-54.180.9.130#KR本地优选
-13.125.40.229#KR本地优选
-52.79.123.68#KR本地优选
-45.154.14.208#KR本地优选
-43.202.1.219#KR本地优选
-43.201.86.93#KR本地优选
-43.202.223.164#KR本地优选
-54.180.94.34#KR本地优选
-43.203.164.152#KR本地优选
-43.201.29.42#KR本地优选
-3.34.198.153#KR本地优选
-16.184.32.159#KR本地优选
-52.79.207.93#KR本地优选
-43.201.76.220#KR本地优选
-43.202.43.68#KR本地优选
+158.179.195.129:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+193.122.119.241:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+144.24.91.39:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+168.110.121.186:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+103.218.173.218:443#ICN-KR-Asia Pacific-Seoul-AS139648-PacketStream Korea
+132.145.91.135:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+168.107.36.135:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+168.107.18.52:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+141.164.34.193:443#ICN-KR-Asia Pacific-Seoul-AS20473-The Constant Company, LLC
+193.122.115.184:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+141.164.52.204:443#ICN-KR-Asia Pacific-Seoul-AS20473-The Constant Company, LLC
+146.56.188.74:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+64.176.230.50:443#ICN-KR-Asia Pacific-Seoul-AS20473-The Constant Company, LLC
+152.70.239.74:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+140.245.70.145:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+64.110.82.71:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+131.186.16.166:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+152.70.237.30:8443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+193.123.236.206:443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
+146.56.187.1:8443#ICN-KR-Asia Pacific-Seoul-AS31898-Oracle Corporation
