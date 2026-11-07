@@ -1,30 +1,12 @@
-156.227.28.24#TW本地优选
-103.137.22.71#TW本地优选
-202.148.221.171#TW本地优选
-203.69.11.81#TW本地优选
-203.69.11.79#TW本地优选
-203.69.11.80#TW本地优选
-220.132.74.165#TW本地优选
-45.192.203.120#TW本地优选
-211.72.147.91#TW本地优选
-114.32.9.249#TW本地优选
-45.207.159.187#TW本地优选
-213.210.4.238#TW本地优选
-140.235.38.206#TW本地优选
-140.235.38.47#TW本地优选
-83.147.15.253#TW本地优选
-151.242.188.152#TW本地优选
-151.242.189.184#TW本地优选
-142.249.60.51#TW本地优选
-78.105.183.11#TW本地优选
-85.237.206.231#TW本地优选
-154.40.60.193#TW本地优选
-78.105.183.40#TW本地优选
-85.237.207.126#TW本地优选
-141.11.86.8#TW本地优选
-85.237.207.72#TW本地优选
-223.165.4.57#TW本地优选
-23.146.248.149#TW本地优选
-151.242.189.137#TW本地优选
-208.75.132.147#TW本地优选
-82.152.91.210#TW本地优选
+154.40.60.193:443#TPE-TW-Asia Pacific-Taipei-AS151338-POLONETWORK LIMITED
+140.235.39.47:443#TPE-TW-Asia Pacific-Taipei-AS212336-ByteVirt LLC
+162.159.198.1:443#LAX-CN-North America-Los Angeles-AS24445-Henan Mobile Communications Co.,Ltd
+162.159.197.1:443#LAX-CN-North America-Los Angeles-AS24445-Henan Mobile Communications Co.,Ltd
+23.146.248.149:443#TPE-TW-Asia Pacific-Taipei-AS204844-Ncse Network Ltd
+83.147.14.62:8443#TPE-TW-Asia Pacific-Taipei-AS38136-Akari Networks
+85.237.207.141:443#TPE-TW-Asia Pacific-Taipei-AS38136-Akari Networks
+141.11.86.150:8443#TPE-TW-Asia Pacific-Taipei-AS38136-Akari Networks
+207.56.137.174:443#TPE-TW-Asia Pacific-Taipei-AS18186-Nebula Global LLC
+82.152.90.151:443#TPE-TW-Asia Pacific-Taipei-AS38136-Akari Networks
+83.147.15.17:443#TPE-TW-Asia Pacific-Taipei-AS38136-Akari Networks
+140.235.39.19:443#TPE-TW-Asia Pacific-Taipei-AS212336-ByteVirt LLC
